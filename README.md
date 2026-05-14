@@ -78,7 +78,7 @@ cd gfg-potd-mastery
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
 
-<a href="https://leetcode.com/shriram-01" target="_blank">
+<a href="https://leetcode.com/u/shriram_lahane/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
 </a>
 
