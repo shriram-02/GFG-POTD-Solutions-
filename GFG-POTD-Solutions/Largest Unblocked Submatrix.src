@@ -1,0 +1,16 @@
+class Solution:
+    def largestArea(self, n, m, k, arr):
+        if k == 0:
+            return n * m
+
+        rows = sorted(r for r, c in arr)
+        cols = sorted(c for r, c in arr)
+
+        def max_gap(blocked, limit):
+            ans = blocked[0] - 1
+            for i in range(1, len(blocked)):
+                ans = max(ans, blocked[i] - blocked[i - 1] - 1)
+            ans = max(ans, limit - blocked[-1])
+            return ans
+
+        return max_gap(rows, n) * max_gap(cols, m)
