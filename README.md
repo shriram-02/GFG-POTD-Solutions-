@@ -3,6 +3,15 @@
 > A structured collection of **GeeksforGeeks Problem of the Day solutions** focused on Data Structures & Algorithms, problem solving, and technical interview preparation.
 
 [![C++](https://img.shields.io/badge/C++-Solutions-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-Solutions-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-Solutions-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Placements-7C3AED)](https://www.geeksforgeeks.org/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yashwant330&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🎯 Overview
 
