@@ -1,9 +1,6 @@
 # 🧩 GeeksforGeeks POTD Solutions
 
 > A structured collection of **GeeksforGeeks Problem of the Day solutions** focused on Data Structures & Algorithms, problem solving, and technical interview preparation.
-
-[![C++](https://img.shields.io/badge/C++-Solutions-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-Solutions-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-Solutions-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![DSA](https://img.shields.io/badge/Focus-DSA%20%26%20Placements-7C3AED)](https://www.geeksforgeeks.org/)
-
 ### 🔝 Top Contributed Repo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake-dark.svg">
@@ -23,30 +20,45 @@ This repository contains solutions to a broad range of **GeeksforGeeks POTD chal
 - 🧩 Arrays, strings, linked lists, trees, graphs, DP, greedy, searching, bit manipulation, and more
 - 🎯 Interview and placement preparation
 - 📚 Problem-wise source-code reference
+<div align="left">
 
-## 📂 Structure
+## 🤝 Connect with Me
 
-```text
-GFG-POTD-Solutions/
-├── Problem Name.py
-├── Problem Name.cpp
-├── Problem Name.java
-└── ...
-```
+<p>
+  <a href="https://github.com/shriram-02">
+    <img src="https://skillicons.dev/icons?i=github" height="32" width="32" />
+  </a>
 
-Solutions are kept as individual source files, making the repository simple to browse and use for revision. fileciteturn20file0
+  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" width="32" />
+  </a>
 
-## 🛠️ Languages
+  <a href="https://leetcode.com/u/shriram_lahane/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="32" />
+  </a>
 
-**Python · C++ · Java**
+  <a href="https://auth.geeksforgeeks.org/user/shriram01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" width="32" />
+  </a>
 
-The multi-language implementations provide flexibility for practicing DSA concepts in different programming environments.
+  <a href="https://www.hackerrank.com/profile/lahaneshriram2">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" width="32" />
+  </a>
 
-## 💼 Placement Value
+  <a href="https://kaggle.com/shriramlahane">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="32" width="32" />
+  </a>
 
-This repository demonstrates hands-on practice with:
+  <a href="https://instagram.com/pvt.shree_01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="32" />
+  </a>
 
-**Data Structures · Algorithms · Problem Solving · Competitive Programming · Multiple Programming Languages · Technical Interview Preparation**
+  <a href="https://discord.com/users/shriram_79991">
+    <img src="https://skillicons.dev/icons?i=discord" height="32" width="32" />
+  </a>
+</p>
+
+</div>
 
 📖 **[View Documentation](https://gfg160.netlify.app/)**
 
